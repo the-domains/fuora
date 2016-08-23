@@ -1,0 +1,14 @@
+layout_spectrum: 0.009842910105362535
+typography_spectrum: 0.5965361741837114
+color:
+  brandStrength: 0.38632078282535076
+  lightness: 0.27504443214274943
+  saturation: 0.07158402749337256
+  rhythmicContrast: 0.6446758294478059
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+name: Fuora
